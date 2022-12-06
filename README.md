@@ -18,19 +18,12 @@
 - [我的 IT Manager 歷程 — 前言](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E4%B8%80%E4%BD%8D%E7%AE%A1%E7%90%86%E8%80%85%E7%9A%84%E5%BF%83%E5%A2%83%E8%88%87%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB-17ebe6192c3c?source=rss-f7e358f8b3be------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="center">🏆 My Github Trophy:</h2>
-<div align="center">
-
+## 🏆 My Github Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=machiko&theme=onedark&title=MultiLanguage,LongTimeUser,Repositories,Stars,Followers,commits)](https://github-profile-trophy.vercel.app/?username=machiko&theme=onedark)
 
-</div>
-
-<h2 align="center">⭐️ My Github Stats:</h2>
-<div align="center">
-
+## ⭐️ My Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=machiko&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 <!--
 **machiko/machiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
