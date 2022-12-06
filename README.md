@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Reyes C <a href="https://medium.com/@reyes92"><img height="20" width="20" src="https://cdn.simpleicons.org/Medium" /></a><a href="https://www.instagram.com/whenslife/" style="margin-left: 10px"><img height="20" width="20" src="https://cdn.simpleicons.org/Instagram" /></a><a href="https://www.linkedin.com/in/reyes-cheng-74baa79a/" style="margin-left: 10px"><img height="20" width="20" src="https://cdn.simpleicons.org/LinkedIn" /></a>
+# Hi there 👋 I'm Reyes C &nbsp;<a href="https://medium.com/@reyes92"><img height="20" width="20" src="https://cdn.simpleicons.org/Medium" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/whenslife/" style="margin-left: 10px"><img height="20" width="20" src="https://cdn.simpleicons.org/Instagram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reyes-cheng-74baa79a/" style="margin-left: 10px"><img height="20" width="20" src="https://cdn.simpleicons.org/LinkedIn" /></a>
 
 <div style="display: flex; justify-content: start; ">
   <img src="https://komarev.com/ghpvc/?username=machiko&style=for-the-badge">
