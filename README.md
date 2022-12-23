@@ -11,11 +11,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我的 IT Manager 歷程 &lpar;四&rpar; 撞牆期](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%88%91%E7%9A%84-it-manager-%E6%AD%B7%E7%A8%8B-%E5%9B%9B-%E6%92%9E%E7%89%86%E6%9C%9F-331c3abfa57e?source=rss-f7e358f8b3be------2)
 - [iPad 忘記解鎖密碼怎麼辦？](https://medium.com/i-%E7%99%BC%E5%AE%A2/ipad-%E5%BF%98%E8%A8%98%E8%A7%A3%E9%8E%96%E5%AF%86%E7%A2%BC%E6%80%8E%E9%BA%BC%E8%BE%A6-a4af6e0ca252?source=rss-f7e358f8b3be------2)
 - [Synology mailplus server 無法收信問題](https://medium.com/i-%E7%99%BC%E5%AE%A2/synology-mailplus-server-%E7%84%A1%E6%B3%95%E6%94%B6%E4%BF%A1%E5%95%8F%E9%A1%8C-9ab9769fd823?source=rss-f7e358f8b3be------2)
 - [我的 IT Manager 歷程 &lpar;三&rpar; 突破](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%88%91%E7%9A%84-manager-%E6%AD%B7%E7%A8%8B-%E4%B8%89-%E7%AA%81%E7%A0%B4-4797267f5127?source=rss-f7e358f8b3be------2)
 - [我的 IT Manager 歷程 &lpar;二&rpar; 認識](https://medium.com/i-%E7%99%BC%E5%AE%A2/be-it-manager-%E4%BA%8C-%E8%AA%8D%E8%AD%98-9c42a5f315fd?source=rss-f7e358f8b3be------2)
-- [我的 IT Manager 歷程 &lpar;一&rpar; 開始](https://medium.com/i-%E7%99%BC%E5%AE%A2/be-it-manager-%E4%B8%80-%E6%80%8E%E9%BA%BC%E9%96%8B%E5%A7%8B%E7%9A%84-9467f494c78e?source=rss-f7e358f8b3be------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 My Github Trophy:
