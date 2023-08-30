@@ -11,11 +11,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我的大兵日記 第二周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%BA%8C%E5%91%A8-de45fecdf3d3?source=rss-f7e358f8b3be------2)
 - [我的大兵日記 第一周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%B8%80%E5%91%A8-d6cbfdc49c78?source=rss-f7e358f8b3be------2)
 - [我在 NARLabs 的開始](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%88%91%E5%9C%A8-narlabs-%E7%9A%84%E9%96%8B%E5%A7%8B-b902396d3daa?source=rss-f7e358f8b3be------2)
 - [Microsoft Azure 新增權限帳號](https://medium.com/i-%E7%99%BC%E5%AE%A2/microsoft-azure-%E6%96%B0%E5%A2%9E%E6%AC%8A%E9%99%90%E5%B8%B3%E8%99%9F-44ecdd6e8710?source=rss-f7e358f8b3be------2)
 - [Notion AI 與 ChatGPT 之間的差異](https://medium.com/i-%E7%99%BC%E5%AE%A2/notion-ai-%E8%88%87-chatgpt-%E4%B9%8B%E9%96%93%E7%9A%84%E5%B7%AE%E7%95%B0-57bd35ea2db6?source=rss-f7e358f8b3be------2)
-- [我的 IT Manager 歷程 &lpar;四&rpar; 撞牆期](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%88%91%E7%9A%84-it-manager-%E6%AD%B7%E7%A8%8B-%E5%9B%9B-%E6%92%9E%E7%89%86%E6%9C%9F-331c3abfa57e?source=rss-f7e358f8b3be------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 My Github Trophy:
