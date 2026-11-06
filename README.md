@@ -1,40 +1,38 @@
-# Hi there 👋 I'm Reyes C &nbsp;<a href="https://medium.com/@reyes92"><img height="20" width="20" src="https://cdn.simpleicons.org/Medium" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/whenslife/" style="margin-left: 10px"><img height="20" width="20" src="https://cdn.simpleicons.org/Instagram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reyes-cheng-74baa79a/" style="margin-left: 10px"><img height="20" width="20" src="https://cdn.simpleicons.org/LinkedIn" /></a>
+# Hi there 👋 I'm Reyes C
 
-<div style="display: flex; justify-content: start; ">
-  <img src="https://komarev.com/ghpvc/?username=machiko&style=for-the-badge">
-</div>
+Software Engineer & Systems Architect specializing in backend microservices, RESTful API design, DevOps infrastructure, and AI-assisted developer workflows.
 
-<!-- - 💻 [My Website](https://machiko.github.io/) -->
+[![Website](https://img.shields.io/badge/Website-whens.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://whens.dev)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@reyes92)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyes-cheng-74baa79a/)
+[![Cake](https://img.shields.io/badge/Resume-Cake-00B87C?style=for-the-badge)](https://www.cake.me/me/reyes-cheng-4929a0)
+[![Email](https://img.shields.io/badge/Email-machikoreo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machikoreo@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=machiko&style=for-the-badge&color=blue)
 
-- 📓 CakeResume : https://www.cakeresume.com/me/reyes-cheng-4929a0
-- 📫 Email : **machikoreo@gmail.com**
+### 🛠 Tech Stack & Infrastructure
 
-# Blog posts
+- **Backend & Systems:** PHP (Laravel), Node.js, Go, TypeScript, RESTful APIs, Microservices
+- **DevOps & Security:** Docker Compose, Traefik, Nginx, GitLab CI/CD, ELK Stack (Kibana), Trivy
+- **AI & Developer Tooling:** Claude Code, Custom Agent Workflows, Webhook Automation
+- **Databases:** PostgreSQL, MySQL
+
+### 🚀 Featured Projects
+
+- 🛡️ **[agent-working-agreements](https://github.com/machiko/agent-working-agreements)** — Incident-backed working agreements and guardrails for AI coding agents.
+- 🖥️ **[claude-desk](https://github.com/machiko/claude-desk)** — TypeScript-based project task aggregator and modular information dashboard for AI workflows.
+- ⚡ **[ramplio](https://github.com/machiko/ramplio)** — High-concurrency load and stress testing service built with Go.
+- 🐳 **[docker-proxy-sample](https://github.com/machiko/docker-proxy-sample)** — Containerized reverse proxy configuration and service routing template.
+
+### 📝 Selected Articles
 <!-- BLOG-POST-LIST:START -->
-- [我的大兵日記 第二周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%BA%8C%E5%91%A8-de45fecdf3d3?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第一周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%B8%80%E5%91%A8-d6cbfdc49c78?source=rss-f7e358f8b3be------2)
-- [我在 NARLabs 的開始](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%88%91%E5%9C%A8-narlabs-%E7%9A%84%E9%96%8B%E5%A7%8B-b902396d3daa?source=rss-f7e358f8b3be------2)
-- [Microsoft Azure 新增權限帳號](https://medium.com/i-%E7%99%BC%E5%AE%A2/microsoft-azure-%E6%96%B0%E5%A2%9E%E6%AC%8A%E9%99%90%E5%B8%B3%E8%99%9F-44ecdd6e8710?source=rss-f7e358f8b3be------2)
-- [Notion AI 與 ChatGPT 之間的差異](https://medium.com/i-%E7%99%BC%E5%AE%A2/notion-ai-%E8%88%87-chatgpt-%E4%B9%8B%E9%96%93%E7%9A%84%E5%B7%AE%E7%95%B0-57bd35ea2db6?source=rss-f7e358f8b3be------2)
+- [我在 NARLabs 的開始](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%88%91%E5%9C%A8-narlabs-%E7%9A%84%E9%96%8B%E5%A7%8B-b902396d3daa)
+- [Microsoft Azure 新增權限帳號](https://medium.com/i-%E7%99%BC%E5%AE%A2/microsoft-azure-%E6%96%B0%E5%A2%9E%E6%AC%8A%E9%99%90%E5%B8%B3%E8%99%9F-44ecdd6e8710)
+- [Notion AI 與 ChatGPT 之間的差異](https://medium.com/i-%E7%99%BC%E5%AE%A2/notion-ai-%E8%88%87-chatgpt-%E4%B9%8B%E9%96%93%E7%9A%84%E5%B7%AE%E7%95%B0-57bd35ea2db6)
 <!-- BLOG-POST-LIST:END -->
 
-## 🏆 My Github Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=machiko&theme=onedark&title=MultiLanguage,LongTimeUser,Repositories,Stars,Followers,commits)](https://github-profile-trophy.vercel.app/?username=machiko&theme=onedark)
+### 📊 GitHub Stats
 
-## ⭐️ My Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=machiko&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**machiko/machiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=machiko&theme=onedark&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiko&theme=onedark&layout=compact&hide_border=true" />
+</div>
