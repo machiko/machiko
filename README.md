@@ -25,9 +25,11 @@ Software Engineer & Systems Architect specializing in backend microservices, RES
 
 ### 📝 Selected Articles
 <!-- BLOG-POST-LIST:START -->
-- [我在 NARLabs 的開始](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%88%91%E5%9C%A8-narlabs-%E7%9A%84%E9%96%8B%E5%A7%8B-b902396d3daa)
-- [Microsoft Azure 新增權限帳號](https://medium.com/i-%E7%99%BC%E5%AE%A2/microsoft-azure-%E6%96%B0%E5%A2%9E%E6%AC%8A%E9%99%90%E5%B8%B3%E8%99%9F-44ecdd6e8710)
-- [Notion AI 與 ChatGPT 之間的差異](https://medium.com/i-%E7%99%BC%E5%AE%A2/notion-ai-%E8%88%87-chatgpt-%E4%B9%8B%E9%96%93%E7%9A%84%E5%B7%AE%E7%95%B0-57bd35ea2db6)
+- [我的大兵日記 第七周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%B8%83%E5%91%A8-f73232a8e81a?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第六周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%85%AD%E5%91%A8-709dfbf1ae1c?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第五周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%BA%94%E5%91%A8-84d49ec1c271?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第四周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%9B%9B%E5%91%A8-e2da5cb2130e?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第三周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%B8%89%E5%91%A8-3ad2d5569f8a?source=rss-f7e358f8b3be------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Stats
