@@ -25,11 +25,11 @@ Software Engineer & Systems Architect specializing in backend microservices, RES
 
 ### 📝 Selected Articles
 <!-- BLOG-POST-LIST:START -->
-- [我的大兵日記 第七周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%B8%83%E5%91%A8-f73232a8e81a?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第六周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%85%AD%E5%91%A8-709dfbf1ae1c?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第五周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%BA%94%E5%91%A8-84d49ec1c271?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第四周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%9B%9B%E5%91%A8-e2da5cb2130e?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第三周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%B8%89%E5%91%A8-3ad2d5569f8a?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第十二周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%91%A8-61fadbfa4c01?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第十一周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8-bab9c2d9d5ff?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第十周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E5%91%A8-f5dbde6b573b?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第九周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%B9%9D%E5%91%A8-eb6557d4c54?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第八周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%85%AB%E5%91%A8-857118826325?source=rss-f7e358f8b3be------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Stats
