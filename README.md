@@ -25,11 +25,11 @@ Software Engineer & Systems Architect specializing in backend microservices, RES
 
 ### 📝 Selected Articles
 <!-- BLOG-POST-LIST:START -->
-- [我的大兵日記 第十七周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E4%B8%83%E5%91%A8-38e5c4f028ca?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第十六周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E5%85%AD%E5%91%A8-857ac3dfc3c0?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第十五周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E4%BA%94%E5%91%A8-b8863eb80d1a?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第十四周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%91%A8-ca3d5b2a6ef4?source=rss-f7e358f8b3be------2)
-- [我的大兵日記 第十三周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E4%B8%89%E5%91%A8-1272adb928a6?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第二十四周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%91%A8-11abe60197fc?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第二十三周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E5%91%A8-6106acecbb?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第二十、二十一周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E4%BA%8C%E5%8D%81-%E4%BA%8C%E5%8D%81%E4%B8%80%E5%91%A8-4abd66421c4e?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第十九周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%91%A8-1abebcb0e97b?source=rss-f7e358f8b3be------2)
+- [我的大兵日記 第十八周](https://medium.com/@reyes92/%E6%88%91%E7%9A%84%E5%A4%A7%E5%85%B5%E6%97%A5%E8%A8%98-%E7%AC%AC%E5%8D%81%E5%85%AB%E5%91%A8-7f423063e266?source=rss-f7e358f8b3be------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Stats
